@@ -1,0 +1,22 @@
+
+table,h1{
+    width:80%;
+    margin:40px auto;
+}
+table.list{
+    text-align:center;
+    width:100%;
+}
+td{
+    border:1px solid black;
+    text-align:left;
+    padding: 8px 15px;
+}
+input[type="text"],input[type="email"]{
+    width:91%;
+    padding:12px 20px;
+    margin:8px 0;
+    display:inline-block;
+    border:1px solid black;
+    border-radius:4px;
+}
